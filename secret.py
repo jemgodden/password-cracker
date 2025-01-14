@@ -1,1 +1,1 @@
-PASSWORD = "godden43!"
+PASSWORD = ""
